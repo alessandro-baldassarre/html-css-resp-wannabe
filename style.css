@@ -137,6 +137,10 @@ img {
     width: 100%;
   }
 
+  #steps .row img{
+    margin-top: 20px;
+  }
+
   div#lezioni,
   div#why {
     background-color: aliceblue
